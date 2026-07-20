@@ -1,42 +1,26 @@
-# \# FlyRank Capstone
+# FlyRank Capstone
 
-# 
+## Overview
 
-# \## Overview
+Short description of what this project does and who it's for.
 
-# Short description of what this project does and who it's for.
+## Tech Stack
 
-# 
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
 
-# \## Tech Stack
+## Status
 
-# \- Next.js (App Router)
+🚧 In progress — FlyRank AI Internship capstone project.
 
-# \- TypeScript
+## Getting Started
 
-# \- Tailwind CSS
+```bash
+npm install
+npm run dev
+```
 
-# 
+## License
 
-# \## Status
-
-# 🚧 In progress — FlyRank AI Internship capstone project.
-
-# 
-
-# \## Getting Started
-
-# ```bash
-
-# npm install
-
-# npm run dev
-
-# ```
-
-# 
-
-# \## License
-
-# See \[LICENSE](./LICENSE).
-
+See [LICENSE](./LICENSE).
